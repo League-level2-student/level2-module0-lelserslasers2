@@ -15,7 +15,6 @@ void setup() {
   //   from 0 to the built in height variable  
   //5. call the noStroke() method
   noStroke();
-
 }
 
 void draw() {
