@@ -25,6 +25,7 @@ void draw() {
   
   //8. draw a rectangle for each int in your array.
   for(int i = 0; i < intsAndStuff.length; i++){
+    fill(255/2, i/2, i/2);
   //   the x value will be the current index in the array
   //   the y value will the height variable
   //   the width is 1 (one)
